@@ -1,0 +1,13 @@
+p{
+    width: 150px;
+    padding: 30px;
+    border: solid 1px black;
+    
+
+    /* Margin 
+    Cima, direita, baixo, esquerda
+    */
+
+    margin: auto;
+
+}
