@@ -1,0 +1,11 @@
+/* div{
+    display: table;
+
+} */
+span {
+    background-color: aqua;
+    border: solid 1px black;
+}
+.inline-flex{
+    display: inline-flex;
+}
