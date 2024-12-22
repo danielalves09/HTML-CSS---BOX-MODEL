@@ -9,3 +9,7 @@ span {
 .inline-flex{
     display: inline-flex;
 }
+
+p{
+    display: none;
+}
