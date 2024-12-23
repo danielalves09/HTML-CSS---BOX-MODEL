@@ -17,3 +17,14 @@ li{
     list-style: none;
     color: #fff;
 }
+
+.icone{
+    position: fixed;
+    bottom: 30px;
+    left:30px
+
+}
+
+.m-bottom{
+    margin-top: 2000px;   
+}
